@@ -116,6 +116,9 @@ We renamed:
 
 ---
 
+## 📘 To Run the code 
+- Open folder in VS code , in terminal run "streamlit run app.py"
+---
 ## 🙏 Acknowledgements
 - [Scikit-learn](https://scikit-learn.org/)
 - [NLTK](https://www.nltk.org/)
